@@ -1,0 +1,7 @@
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.pdb
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\05. Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\05. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb

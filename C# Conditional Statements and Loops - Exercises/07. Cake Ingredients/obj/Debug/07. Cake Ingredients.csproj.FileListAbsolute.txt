@@ -1,0 +1,7 @@
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe.config
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.pdb
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.pdb

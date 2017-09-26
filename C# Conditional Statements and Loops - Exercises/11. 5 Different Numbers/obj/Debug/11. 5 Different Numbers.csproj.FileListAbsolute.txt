@@ -1,0 +1,6 @@
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe.config
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.pdb
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe.config
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.pdb
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\04. Hotel.csprojResolveAssemblyReference.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\04. Hotel.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.pdb

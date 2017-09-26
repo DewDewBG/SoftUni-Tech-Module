@@ -1,0 +1,7 @@
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe.config
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\06. Interval of Numbers\bin\Debug\_06.Interval_of_Numbers.pdb
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\06. Interval of Numbers\obj\Debug\06. Interval of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\06. Interval of Numbers\obj\Debug\06. Interval of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.exe
+C:\Users\DewDew\SoftUni---Tech-Module\C# Conditional Statements and Loops - Exercises\06. Interval of Numbers\obj\Debug\_06.Interval_of_Numbers.pdb
