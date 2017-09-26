@@ -1,0 +1,6 @@
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

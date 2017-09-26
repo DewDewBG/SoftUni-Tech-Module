@@ -1,0 +1,7 @@
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe.config
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.exe
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\bin\Debug\_15.Neighbour_Wars.pdb
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\15. Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\15. Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.exe
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\15. Neighbour Wars\obj\Debug\_15.Neighbour_Wars.pdb

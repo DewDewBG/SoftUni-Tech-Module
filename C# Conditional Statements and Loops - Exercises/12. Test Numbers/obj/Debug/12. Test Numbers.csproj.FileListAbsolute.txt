@@ -1,0 +1,7 @@
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\12. Test Numbers\obj\Debug\12. Test Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\12. Test Numbers\obj\Debug\12. Test Numbers.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+C:\Users\DewDew\SoftUni-Tech-Module\C# Conditional Statements and Loops - Exercises\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb
