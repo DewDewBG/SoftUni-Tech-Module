@@ -1,0 +1,9 @@
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\netcoreapp1.1\04. Variable in Hex Format.deps.json
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\netcoreapp1.1\04. Variable in Hex Format.runtimeconfig.json
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\netcoreapp1.1\04. Variable in Hex Format.runtimeconfig.dev.json
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\netcoreapp1.1\04. Variable in Hex Format.dll
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\netcoreapp1.1\04. Variable in Hex Format.pdb
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\netcoreapp1.1\04. Variable in Hex Format.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\netcoreapp1.1\04. Variable in Hex Format.AssemblyInfo.cs
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\netcoreapp1.1\04. Variable in Hex Format.dll
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\netcoreapp1.1\04. Variable in Hex Format.pdb

@@ -1,0 +1,10 @@
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp1.1\01. Practice Integers.deps.json
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp1.1\01. Practice Integers.runtimeconfig.json
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp1.1\01. Practice Integers.runtimeconfig.dev.json
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp1.1\01. Practice Integers.dll
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp1.1\01. Practice Integers.pdb
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp1.1\01. Practice Integers.csprojResolveAssemblyReference.cache
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp1.1\01. Practice Integers.csproj.CoreCompileInputs.cache
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp1.1\01. Practice Integers.AssemblyInfo.cs
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp1.1\01. Practice Integers.dll
+C:\Users\DewDew\SoftUni-Tech-Module\Data Types and Variables - Exercises\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp1.1\01. Practice Integers.pdb
